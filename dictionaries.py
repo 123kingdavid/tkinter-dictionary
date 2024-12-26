@@ -22,4 +22,27 @@ yoruba_dictionary = {
     "aso": "clothes",
     "ile": "home",
     "awo": "plate"
-}
+} 
+igbo_dictionary = { "ehi" : "cow",
+                   "bia" : "come", 
+                   "aziza" : "broom",
+                   "oche" : "chair", 
+                   "ewu" : "goat",
+                   "umaka" : "children",
+                   "mmiri" : "water", 
+                   "ebubechukwu" : " glory of god",
+                   "dalu" : "thank you", 
+                   "ututu oma" : "good morning",
+                   "father" : "Nna",
+                    "kedu" : "how are you",
+                   "onyekuzi" : "teacher",
+                   "gozie" : "goodbye",
+                   "ji" : "yam",
+                   "anyasi oma" : "good evening",
+                   " kachi foo" : " good night",
+                   "mother" : "Nne", 
+                   "umunna" : "family",
+                   " Ehihe oma" : "good afternoon"
+                   
+
+                          
